@@ -10,7 +10,7 @@
 
 	<groupId>spring-devops</groupId>
 	<artifactId>spring-devops</artifactId>
-	<version>1.1.4-SNAPSHOT</version>
+	<version>1.1.4</version>
 	<packaging>war</packaging>
 	<name>spring-devops</name>
 	<description>Devops </description>
@@ -35,7 +35,7 @@
 		<connection>scm:git:git@github.com:Saloni-19/spring-devops.git</connection>
 		<developerConnection>scm:git:git@github.com:Saloni-19/spring-devops.git</developerConnection>
 		<url>git@github.com:Saloni-19/spring-devops.git</url>
-		<tag>HEAD</tag>
+		<tag>v1.1.4</tag>
 	</scm>
 
 	<dependencies>
