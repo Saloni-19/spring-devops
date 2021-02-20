@@ -12,10 +12,14 @@
 	<artifactId>spring-devops</artifactId>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<version>0.0.2-SNAPSHOT</version>
 =======
 	<version>1.1.0-SNAPSHOT</version>
 >>>>>>> c1a8817d8880d9ea0f367f55cacaf9a50ec2e50e
+=======
+	<version>0.0.1-SNAPSHOT</version>
+>>>>>>> release/Initial_Release
 =======
 	<version>0.0.1-SNAPSHOT</version>
 >>>>>>> release/Initial_Release
