@@ -13,10 +13,14 @@
 	<groupId>spring-devops</groupId>
 	<artifactId>spring-devops</artifactId>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<version>0.1.1-SNAPSHOT</version>
 =======
 	<version>0.0.2-SNAPSHOT</version>
 >>>>>>> c5fa28e91c1e5763bb9afe236a926d8f1137f689
+=======
+	<version>0.0.3-SNAPSHOT</version>
+>>>>>>> fd9ae9459e9c83061396ad8053bcd87493a75d79
 	<packaging>war</packaging>
 	<name>spring-devops</name>
 	<description>Devops</description>
