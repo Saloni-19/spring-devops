@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -10,10 +12,18 @@
 
 	<groupId>spring-devops</groupId>
 	<artifactId>spring-devops</artifactId>
+<<<<<<< HEAD
+<<<<<<< HEAD
+	<version>0.1.1-SNAPSHOT</version>
+=======
 	<version>0.0.2-SNAPSHOT</version>
+>>>>>>> c5fa28e91c1e5763bb9afe236a926d8f1137f689
+=======
+	<version>0.0.3-SNAPSHOT</version>
+>>>>>>> fd9ae9459e9c83061396ad8053bcd87493a75d79
 	<packaging>war</packaging>
 	<name>spring-devops</name>
-	<description>Devops </description>
+	<description>Devops</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
@@ -56,6 +66,10 @@
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 				<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-logging</artifactId>
+		</dependency>
+		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-logging</artifactId>
 		</dependency>
