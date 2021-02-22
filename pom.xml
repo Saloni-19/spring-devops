@@ -12,7 +12,11 @@
 
 	<groupId>spring-devops</groupId>
 	<artifactId>spring-devops</artifactId>
+<<<<<<< HEAD
 	<version>0.1.1-SNAPSHOT</version>
+=======
+	<version>0.0.2-SNAPSHOT</version>
+>>>>>>> c5fa28e91c1e5763bb9afe236a926d8f1137f689
 	<packaging>war</packaging>
 	<name>spring-devops</name>
 	<description>Devops</description>
@@ -56,6 +60,10 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
+				<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-logging</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
