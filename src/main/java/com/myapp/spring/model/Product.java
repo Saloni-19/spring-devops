@@ -7,7 +7,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 @Entity
-@Table(name="newproducts")
+@Table(name = "newproducts")
 public class Product {
 
 	@Id
@@ -16,9 +16,8 @@ public class Product {
 	private String productName;
 	private Double price;
 	private String description;
-	
+
 	public Product() {
-		// TODO Auto-generated constructor stub
 	}
 
 	public Product(String productName, Double price, String description) {
@@ -58,6 +57,5 @@ public class Product {
 	public void setDescription(String description) {
 		this.description = description;
 	}
-	
-	
+
 }
