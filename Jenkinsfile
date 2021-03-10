@@ -12,7 +12,7 @@ node {
 		}
 	}
 
-	stage('Build Docker image') {
+	stage('Build Docker Image') {
 		steps {
 			echo "-=- build Docker image -=-"
 			sh "docker build -t ${ORG_NAME}/${APP_NAME}:${APP_VERSION} -t ${ORG_NAME}/${APP_NAME}:latest ."
